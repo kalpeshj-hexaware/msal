@@ -2,6 +2,21 @@
   "name": "@azure/msal-node-extensions",
   "entries": [
     {
+      "date": "Thu, 05 May 2022 17:19:38 GMT",
+      "tag": "@azure/msal-node-extensions_v1.0.0-alpha.17",
+      "version": "1.0.0-alpha.17",
+      "comments": {
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "c03bd9cbf5a3c31cfcd86de7ab718c10b7d08304",
+            "comment": "Update extensions package-lock to fix audit #4786"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 02 May 2022 22:23:33 GMT",
       "tag": "@azure/msal-node-extensions_v1.0.0-alpha.17",
       "version": "1.0.0-alpha.17",
